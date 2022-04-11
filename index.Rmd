@@ -1,0 +1,24 @@
+---
+title: "Julie Dahlof Kramme"
+image: "kramme.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/julie-dahlof-kramme-92070b6/"
+  - label: Research Gate
+    url: "https://www.researchgate.net/profile/Julie-Kramme/"
+  - label: ORCiD 
+    url: "https://orcid.org/0000-0002-8428-2839/"
+  - label: Email
+    url: "mailto:dahl0488@umn.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+
+---
+ 
+I research school and community-based interventions that support people with intellectual and developmental disabilities to participate in communities of their choice. My research line focuses on self-determination and interventions that support adolescents with disabilities to learn to read. 
+
+I am a Researcher at the Institute on Community Integration and a PhD student in Educational Psychology at the University of Minnesota. I love bikepacking and planning the next trip.
+
+
+

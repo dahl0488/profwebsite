@@ -1,0 +1,41 @@
+---
+title: "Julie Dahlof Kramme"
+description: |
+  CV will be posted soon.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Education
+
+**Ph.D. in Educational Psychology (Special Education) | September 2020 - present**
+University of Minnesota | Minneapolis, MN
+
+**M.A. in Educational Psychology (School Psychology) | September 2014 - May 2016**
+University of Minnesota | Minneapolis, MN
+
+**M.A. in Christian Thought (Philosophical Theology) | September 2007 - May 2010**
+Bethel Seminary | St. Paul, MN
+
+**B.A. in Psychology (Minor in Philosophy) | September 2001 - May 2005**
+Bethel University 
+
+# Experience
+
+Institute on Community Integration (UCEDD), University of Minnesota | Researcher 5 | January 2017 - Present
+
+Institute on Community Integration (UCEDD), University of Minnesota | Graduate Research Assistant | January 2015 - January 2017
+
+Department of Curriculum and Instruction, University of Minnesota | Graduate Research Assistant | September 2014 - January 2015
+
+Department of School Psychology - FastBridge Learning, University of Minnesota | Graduate Research Assistant | June 2014 - September 2014
+
+Eagle Ridge Academy | Targeted Services Teacher, Special Education Assistant | September 2013 - September 2014
+
+Trinity School at River Ridge | Middle and High School Teacher | June 2011 - June 2013
+
+Bethel University | Research Fellow, Co-Instructor | September 2007 - September 2011
+
+
